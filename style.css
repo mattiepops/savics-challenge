@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    padding: 10px;
+    width: 50vw;
+    height: fit-content;
+    border: 1px solid black;
+}
+
+.resultDiv{
+padding: 5px;
+}
+
+.new-record{
+    border: 1px solid black;
+}
